@@ -25,6 +25,7 @@ A machine learning project that predicts whether a red wine sample is of **good 
 ---
 
 ## 📂 Project Structure 
+```
 Wine-Quality-Predictor/
 ├── venv/ # Python virtual environment
 ├── ideal_ranges.csv # Min-max ideal feature ranges for good wines
@@ -36,6 +37,7 @@ Wine-Quality-Predictor/
 ├── wine_model.pkl # Trained Random Forest model
 ├── wine_quality.py # EDA, model training, and evaluation
 ├── winequality-red.csv # Original dataset (UCI Wine Quality dataset)
+```
 
 
 ---
